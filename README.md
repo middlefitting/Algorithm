@@ -1,10 +1,8 @@
 # Algorithm
 - preparing Coding Test
 
-
 ## Language
 - Python, C++
-
 
 ## Reference
 - https://github.com/ndb796/python-for-coding-test
